@@ -7,7 +7,7 @@ Styling: CSS
 React Router - For general routing & navigation
 
 Back-end
-For handling index requests: Node.js with Express.js Framework
+For handling index requests: Node.js with Express.js Framework //
 As Database: MongoDB
 Mongoose - MongoDB object modeling for Node.js
 JSON Web Token - A standard to secure/authenticate HTTP requests
