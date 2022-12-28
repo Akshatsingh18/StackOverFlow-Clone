@@ -1,12 +1,12 @@
-# StackOverFlow-Clone  //
+### StackOverFlow-Clone  
 
-# My Tech Stack (MERN) //
-Front-end //
-Front-end Framework: React.js (with Redux) //
-Styling: CSS //
-React Router - For general routing & navigation //
+## My Tech Stack (MERN) /
+# Front-end /
+Front-end Framework: React.js (with Redux) /
+Styling: CSS /
+React Router - For general routing & navigation /
 
-Back-end //
+# Back-end /
 For handling index requests: Node.js with Express.js Framework //
 As Database: MongoDB //
 Mongoose - MongoDB object modeling for Node.js //
