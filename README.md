@@ -1,18 +1,18 @@
-### StackOverFlow-Clone  
+# StackOverFlow-Clone  
 
-### My Tech Stack (MERN) 
+# My Tech Stack (MERN) 
 ## Front-end 
-# Front-end Framework: React.js (with Redux) 
-# Styling: CSS 
-# React Router - For general routing & navigation 
+### Front-end Framework: React.js (with Redux) 
+### Styling: CSS 
+### React Router - For general routing & navigation 
 
 ## Back-end 
-# For handling index requests: Node.js with Express.js Framework 
-# As Database: MongoDB 
-# Mongoose - MongoDB object modeling for Node.js 
-# JSON Web Token - A standard to secure/authenticate HTTP requests 
-# Bcrypt.js - For hashing passwords 
-# POSTMAN - API tested using  
+### For handling index requests: Node.js with Express.js Framework 
+### As Database: MongoDB 
+### Mongoose - MongoDB object modeling for Node.js 
+### JSON Web Token - A standard to secure/authenticate HTTP requests 
+### Bcrypt.js - For hashing passwords 
+### POSTMAN - API tested using  
 
 
 # Features //
